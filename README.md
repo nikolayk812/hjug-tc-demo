@@ -1,6 +1,6 @@
 # Slides
 
-https://speakerdeck.com/nikolayk812/testcontainers-plus-junit-5-equals-elegant-integration-and-e2e-tests-for-microservices
+https://speakerdeck.com/nikolayk812/integration-testing-with-testsontainers-and-junit-5
 
 # TestContainers demo
 
